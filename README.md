@@ -1,2 +1,1 @@
-# Trabajo-alumnos
-rex
+# ps5plantilla_juego
